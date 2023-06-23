@@ -1,0 +1,261 @@
+@media (min-width:992px) and (max-width:1199px){}
+
+@media (min-width:768px) and (max-width:991px){}
+
+
+@media (min-width:320px) and (max-width:767px){
+
+   .bannerinner-top {
+     
+      width: 205%;
+      text-align: center;  
+    }
+    .bannerinner-bottom a {
+   
+    font-size: 16px;
+    color: #ffffff;
+    padding: 10px ;
+    text-transform: uppercase;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    margin: 0 0 0 20px;
+
+    }
+
+    .bannerinner-top p {
+    color: #fff;
+    font-size: 26px;
+    text-transform: uppercase;
+    position: relative;
+    padding: 30px 0;
+    margin: 0 0 0 22px;
+}
+      .bannerinner-bottom p {
+         font-size: 15px;
+         line-height: 25px;
+         margin-bottom: 35px;
+         width: 212%;
+         text-align: center;
+     }
+
+   .bannerinner-top p::after {
+      content: "";
+      width: 100%;
+      height: 2px;
+      background-color: #ffffff;
+      display: inline-block;
+      position: absolute;
+      bottom: 0;
+      left: 10px;
+   }
+
+
+  .but {
+    
+    
+      cursor: pointer;
+      width:220px;
+      text-align: center;
+    }
+
+    .socialmedia-left{
+      width: 100%;
+      text-align: center;    
+
+   }
+   .socialmedia-rgt img{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+       width:100%;
+       margin: 0 auto;
+
+   }
+
+   .sublist-rgt img{
+      width: 100%;
+   
+     }  
+   .sublist-lft {
+     width: 100%;   
+
+   }
+   .sublist-lft h2{
+      text-align: center;
+   }
+   .sublist-lft p{
+      line-height: 40px;
+      text-align: center;
+
+   }
+
+   .sublist-lft h2::after {
+      content: "";
+    width: 50px;
+    height: 2px;
+    background-color: #ff8b38;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+
+  .upload{
+   width: 100%;
+  }  
+
+   .upload-details p{
+      font-size: 14px;
+      line-height: 25px;
+      margin-bottom: 35px;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   
+   }
+
+   .download {
+      width: 100%;
+   }
+   .download-details p{
+      font-size: 14px;
+      line-height: 25px;
+      margin-bottom: 35px;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .standredpicture-inner h1{
+      text-align: center;
+     }
+
+     .standredpicture-inner h1::after {
+      content: "";
+    width: 50px;
+    height: 2px;
+    background-color: #ff8b38;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+
+   .standredpicture-inner p{
+      font-size: 14px;
+      line-height: 35px;
+      width: 100%;
+      text-align: center;
+   
+   }
+   .stdpc-left img{
+      width: 100%;
+    
+   }
+
+   .awesome-1{
+      font-size: 14px;
+      line-height: 35px;
+      width: 100%;
+      text-align: center;
+   }
+   .profile{
+      font-size: 14px;
+      line-height: 85px;
+      width: 100%;
+      text-align: center;
+
+   }
+
+   .awesome-btm p {
+      font-size: 20px;
+      line-height: 31px;
+      color: #b4b4b7;
+      text-align: center;
+  }
+
+  .awesome-top h1 {
+   font-size: 20px;
+   color: #212121;
+   text-transform: uppercase;
+   position: relative;
+   padding: 0 0 20PX 0;
+   margin: 0;
+  }
+
+  .pricingopt {
+   padding: 40px 0;
+  }
+  .pricingopt-top h1{
+   font-size: 24px;
+   color: #212121;
+   text-transform: uppercase;
+   position: relative;
+   padding: 0 0 20PX 0;
+   margin: 0;
+
+  }
+
+  .pricingopt-top p {
+   color: #86878b;
+   font-size: 22px;
+   margin: 0 0 25px 0;
+   padding: 20px;
+}
+
+.profile{
+   width: 100%;
+   font-family: "Instruction";
+  
+}
+
+.cussaying-bottom p {
+   font-size: 20px;
+   line-height: 40px;
+    color: #848484; 
+   padding: 10px 11px;
+   background-color: #f5f5f5;
+   margin-left: 10px;
+   margin-right: 25px;
+}
+
+.cussaying-bottom img {
+   float: left;
+   margin: 19px 0 0 20px;
+}
+
+.cussaying-top h1 {
+
+    font-size: 24px;
+    color: #212121;
+    text-transform: uppercase;
+    position: relative;
+    padding: 0 0 20PX 0;
+    margin: 0;
+    line-height: 40px;
+}
+
+.stylish-inner h1 {
+   font-size: 26px;
+    color: white;
+    text-transform: uppercase;
+    position: relative;
+    padding: 0 0 20PX 0;
+    margin: 0;
+    line-height: 40px;
+
+}
+
+.stylish-inner p {
+   font-size: 20px;
+   color: #848484;
+   padding: 30px 0;
+   text-align: center;
+
+}
+
+}
